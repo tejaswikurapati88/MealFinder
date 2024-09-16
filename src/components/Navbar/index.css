@@ -1,0 +1,29 @@
+.nav-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-family: "Roboto";
+}
+.nav-button-cont {
+  display: flex;
+  align-items: center;
+}
+.home-btn {
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  margin-right: 20px;
+  background-color: green;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+.searchbar {
+  border: 1px solid gray;
+  border-radius: 4px;
+  outline: none;
+}
